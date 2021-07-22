@@ -38,7 +38,7 @@
 
 * 슬라이드 섹션 화면
 
-![리토박스2](https://user-images.githubusercontent.com/77954029/126593659-bd189695-430b-4f59-b9f0-ca2274918fa6.gif)
+![리토박스뉴](https://user-images.githubusercontent.com/77954029/126598572-87282f8c-a512-41d6-b861-dd8ca7522819.gif)
 
 - 왼쪽 박스의 너비만큼 left 정렬 움직여 슬라이드 효과, 버튼 클릭시 방향 슬라이드  
 
